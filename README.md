@@ -29,7 +29,7 @@ ngrok version
 ```
 ngrok config add-authtoken <your_nagrok_token>
 ```
-       ` Start Ngrok`
+       ## Start Ngrok
 
 ```
 ngrok http 8080
@@ -39,7 +39,7 @@ ngrok http 8080
 ```
 pkg install cloudflared
 ```
-       `Start and Run 📡`
+      ## Start and Run 📡
 ```
 cloudflared tunnel --url localhost:8080
 ```
@@ -51,7 +51,7 @@ cloudflared tunnel --url localhost:8080
 
 ## [~] Find Me on :
 
- -<a href="https://m.facebook.com/reg/">YouTube Channel</a>
+                  <a href="https://m.facebook.com/reg/">YouTube Channel</a>
 
 - [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/Masterdas?tab=repositories)
 
