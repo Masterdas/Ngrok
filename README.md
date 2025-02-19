@@ -54,7 +54,10 @@ cloudflared tunnel --url localhost:8080
 
 
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/Masterdas?tab=repositories)
 
-- [![Telegram](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=telegram)](https://t.me/masterdas000)
+<h4 align="center"><a href="https://github.com/Masterdas?tab=repositories">GitHub</a></h4>
 
+
+
+
+<h4 align="center"><a href="https://t.me/masterdas000">Telegram</a></h4>
