@@ -1,6 +1,6 @@
 <h4 align="center"><u>Ngrok Full Setup Cods</u></h4>
 
-![Hack page and get images]()
+![Hack page and get images](https://raw.githubusercontent.com/Masterdas/Ngrok/refs/heads/main/PNG/Screenshot_2025_0219_165206.png)
 
 ### [NGROK] Install All Comments
 
@@ -31,8 +31,17 @@ ngrok config add-authtoken <your_nagrok_token>
 ```
        ` Start Ngrok`
 
-```ngrok http 8080
+```
+ngrok http 8080
+```
+### Install CLOUDFLAREDOL Fire 🔥
 
+```
+pkg install cloudflared
+```
+       `Start and Run 📡`
+```
+cloudflared tunnel --url localhost:8080
 ```
 
 
@@ -42,9 +51,9 @@ ngrok config add-authtoken <your_nagrok_token>
 
 ## [~] Find Me on :
 
+ -<a href="https://m.facebook.com/reg/">YouTube Channel</a>
+
 - [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/Masterdas?tab=repositories)
 
 - [![Telegram](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=telegram)](https://t.me/masterdas000)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/x)
 
