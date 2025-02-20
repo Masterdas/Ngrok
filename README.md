@@ -26,38 +26,43 @@ chmod +x /data/data/com.termux/files/usr/bin/ngrok
 ```
 ngrok version
 ```
-```
-ngrok config add-authtoken <your_nagrok_token>
-```
-       ## Start Ngrok
 
+
+### 📌 Ngrok add token
+### 🔹 **Ngrok অটোকনফিগার করুন**
+```
+ngrok config add-authtoken <your_ngrok_token>
+```
+
+### ✅ **Ngrok চালু করুন**
 ```
 ngrok http 8080
 ```
-### Install CLOUDFLAREDOL Fire 🔥
 
+---
+
+## 🔥 **Cloudflare Tunnel সেটআপ**
+
+### 🔹 **Cloudflared ইনস্টল করুন**
 ```
 pkg install cloudflared
 ```
-      ## Start and Run 📡
+
+### ✅ **Cloudflared টানেল চালু করুন**
 ```
 cloudflared tunnel --url localhost:8080
 ```
+---
 
-
-
-
-
-
-## [~] Find Me on :
-<h4 align="center"><a href="https://youtube.com/@appshaktibangla">YouTube Channel</a></h4>
-
-
-
-
-<h4 align="center"><a href="https://github.com/Masterdas?tab=repositories">GitHub</a></h4>
-
-
-
-
-<h4 align="center"><a href="https://t.me/masterdas000">Telegram</a></h4>
+## 📌 Contact Me  
+<p align="center">
+  <a href="https://youtube.com/@appshaktibangla">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://github.com/Masterdas?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/masterdas000">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
