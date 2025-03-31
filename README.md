@@ -55,14 +55,21 @@ cloudflared tunnel --url localhost:8080
 ---
 
 ## 📌 Contact Me  
-<p align="center">
-  <a href="https://youtube.com/@appshaktibangla">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://github.com/Masterdas?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://t.me/masterdas000">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+
+<a href="https://youtube.com/@zerodarknexus">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>  
+
+
+<a href="https://github.com/Masterdas?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>  
+
+
+<a href="https://t.me/ZeroHackNexus">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>    
+
+<a href="https://chat.whatsapp.com/II35pNaN25rHqnUmqXK6ag">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
