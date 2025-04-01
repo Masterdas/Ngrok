@@ -24,10 +24,9 @@ mv ngrok $PREFIX/bin/ && chmod +x $PREFIX/bin/ngrok
 ngrok version
 ```
 
-### Open Ngrok website
-<a href="https://dashboard.ngrok.com/get-started/your-authtoken"> 📌 Ngrok token Click here </a>
+### Open Ngrok website<a href="https://dashboard.ngrok.com/get-started/your-authtoken"> 📌 Ngrok token Click here </a>
 
-### 🔹 **Ngrok add token demo **
+### 🔹Ngrok add token demo
 ```
 ngrok config add-authtoken <your_ngrok_token>
 ```
