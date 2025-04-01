@@ -18,32 +18,28 @@ wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
 tar -xvzf ngrok-v3-stable-linux-arm64.tgz && rm -rf ngrok-v3-stable-linux-arm64.tgz
 ```
 ```
-mv ngrok /data/data/com.termux/files/usr/bin/
-```
-```
-chmod +x /data/data/com.termux/files/usr/bin/ngrok
+mv ngrok $PREFIX/bin/ && chmod +x $PREFIX/bin/ngrok
 ```
 ```
 ngrok version
 ```
 
+### Open Ngrok website
+<a href="https://dashboard.ngrok.com/get-started/your-authtoken"> 📌 Ngrok token Click here </a>
 
-### 📌 Ngrok add token
-### 🔹 **Ngrok অটোকনফিগার করুন**
+### 🔹 **Ngrok add token demo **
 ```
 ngrok config add-authtoken <your_ngrok_token>
 ```
 
-### ✅ **Ngrok চালু করুন**
+### ✅ **Ngrok Server Start and Run**
 ```
 ngrok http 8080
 ```
 
 ---
 
-## 🔥 **Cloudflare Tunnel সেটআপ**
-
-### 🔹 **Cloudflared ইনস্টল করুন**
+## 🔥 **Cloudflare Tunnel Setup and Install**
 ```
 pkg install cloudflared
 ```
