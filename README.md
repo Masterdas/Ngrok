@@ -1,4 +1,4 @@
-<h4 align="center"><u>Ngrok Full Setup Cods</u></h4>
+<h4 align="center"><u>Ngrok Full Setup Codes</u></h4>
 
 ![Hack page and get images](https://raw.githubusercontent.com/Masterdas/Ngrok/refs/heads/main/PNG/Screenshot_2025_0219_165206.png)
 
@@ -43,7 +43,7 @@ ngrok http 8080
 pkg install cloudflared
 ```
 
-### ✅ **Cloudflared টানেল চালু করুন**
+### ✅ **Cloudflared Tunnel Run & Start  **
 ```
 cloudflared tunnel --url localhost:8080
 ```
